@@ -1,0 +1,19 @@
+Results
+
+We use three metrics for measuring the performance of our model - Cosine similarity, BLEU (Bilingual Evaluation Understudy), and ROUGE (Recall-Oriented Understudy for Gisting Evaluation).
+
+We have written three python scripts to calculate each of these three metrics. Each of these scripts produces three files:
+
+1. output_baseline_<scoring metric>.txt : 
+This file contains a score for each summary computed using the baseline model. This score indicates how good the summary in relation to the reference summary, using that particular scoring metric.
+
+2. output_new_<scoring metric>.txt : This file contains a score for each summary computed using our model. Similarly, this score indicates how good the summary in relation to the reference summary, using that particular scoring metric.
+
+3. top_summaries_<scoring metric>.txt : The first line of this file indicates how many summaries out of the total 7054 our model performed better on than the baseline model. The next 50 lines contain the indexes of the top 50 summaries (i.e. the summaries which had the highest score in relation to their corresponding reference summaries).
+
+Run:
+To run the python scripts, use the following command:
+	$ python -W ignore [script name]
+
+Change ROUGE type:
+There are three sub-metrics under the ROUGE metric - ROUGE - 1, ROUGE - 2 and ROUGE - L. ROUGE - 1 is enabled by default. In order to change this, please open calc_rouge.py and modify lines 29 and 30. Please replace "rouge-1" with "rouge-2" or "rouge-l" as per need.

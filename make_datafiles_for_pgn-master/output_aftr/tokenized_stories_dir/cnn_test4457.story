@@ -1,0 +1,44 @@
+Wednesday marked a year since Assange sought refuge in the embassy to avoid extradition to Sweden , where he is wanted for questioning over allegations that he raped one woman and sexually molested another .
+
+Assange has repeatedly said the allegations in Sweden are politically motivated and tied to the work of his website . Ecuador 's government granted him asylum in August , but British authorities have said they will arrest him if he leaves the premises .
+
+As a result of his decision to seek refuge in the embassy , `` I have been able to work in relative safety from a U.S. espionage investigation , '' said Assange , according to the text of the speech .
+
+`` But today , Edward Snowden 's ordeal is just beginning . ''
+
+Assange to Snowden : ` Go to Latin America '
+
+Assange , in his published speech , said the espionage charge had come `` like clockwork , '' making Snowden the eighth `` leaker '' to be charged with that count by the Obama administration .
+
+`` Two dangerous runaway processes have taken root in the last decade , with fatal consequences for democracy , '' he said .
+
+`` Government secrecy has been expanding on a terrific scale . Simultaneously , human privacy has been secretly eradicated ... The U.S. government is spying on each and every one of us , but it is Edward Snowden who is charged with espionage for tipping us off . ''
+
+Also among the eight `` leakers '' is WikiLeaks source Bradley Manning , Assange said . Manning is being court-martialed on charges he aided U.S. enemies by leaking documents he obtained as an Army intelligence analyst .
+
+He named the others as Barrett Brown , Jeremy Hammond , Aaron Swartz , Gottfrid Svartholm and Jacob Appelbaum .
+
+Assange suggested Obama was the real `` traitor '' for his failure to live up to his promises of hope , change and transparency in government . And he warned that the U.S. government will lose the battle if it tries to take on the tech-savvy people now calling its actions into question .
+
+`` Edward Snowden is one of us . Bradley Manning is one of us . They are young , technically minded people from the generation that Barack Obama betrayed . They are the generation that grew up on the Internet , and were shaped by it , '' he said .
+
+Guardian newspaper : UK security agency has spy program , shares data with NSA
+
+CNN 's Susannah Palk contributed to this report .
+
+@highlight
+
+Assange says President Obama has betrayed a generation , according to the text of a speech
+
+@highlight
+
+`` Edward Snowden 's ordeal is just beginning , '' Assange says of the NSA leaker
+
+@highlight
+
+Snowden is charged by federal prosecutors with espionage and theft of government property
+
+@highlight
+
+`` This is n't a phenomenon that is going away , '' says Assange of young , tech-savvy leakers
+

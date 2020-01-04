@@ -1,0 +1,46 @@
+Jackson arrived in an ambulance at UCLA Medical Center three miles away and just three hours after Fawcett was pronounced dead at another hospital on June 25 , 2009 .
+
+`` I was so angry , '' she said . `` I called up the director of the Academy the next day and never thought that he would take my call , and he did take my call . And I said , ` Please tell me this was a horrible oversight . ' And he said , ` No , there was a lot of discussion about it , and finally we felt that she was known more as a television actress . ' ''
+
+Stewart pointed out that Fawcett acted in at least 16 movies . She was nominated for an Independent Spirit Award for her acting in `` The Apostle '' with Robert Duval . One of Fawcett 's five Golden Globe nominations was for best actress in the film `` Extremities . ''
+
+`` I ca n't imagine why they would have made that decision , and it was just really wrong , '' she said .
+
+Fawcett 's long battle with cancer was closely followed by fans , thanks in part to a camera carried by Stewart .
+
+The actress , whose hair and face made her a global icon , chose to not hide the ravages of her disease under makeup .
+
+Fawcett traveled to Germany to seek alternative cancer treatments not offered in the United States .
+
+Even after her death , she is battling cancer through the Farrah Fawcett Foundation , which will fund research and clinical trials of alternative treatments for anal and pediatric cancers , Stewart said .
+
+`` Some of the traditional things in the beginning of her treatment here really harmed her and really sucked the life out of her , '' Stewart said . `` They were so debilitating . ''
+
+Fawcett searched for `` cutting edge '' alternatives to the chemotherapy that was `` like napalming your body , '' Stewart says .
+
+Fawcett 's story -- which Stewart also chronicled in her book `` My Journey With Farrah '' -- is about a woman fighting to live against mounting odds of a spreading cancer . It was a spirit that kept her alive , she said .
+
+It was a battle that she never thought she would lose , always expecting the miracle , Stewart said .
+
+`` She fought until the very last day , '' she said . `` The doctors , the nurses , everyone around her said they had never seen someone fight so hard . And she did not want to give up . Not for one second . Not till the very end . ''
+
+`` I just felt like that was a very personal , private time and I can say that she went very peacefully with just a few people around her , '' she said . `` Ryan -LRB- O'Neal -RRB- was there , I was there , her friend Mela -LRB- Murphy -RRB- was there , the nurse and the doctor were there , and that was it . ''
+
+The `` Charlie 's Angels '' actress will be remembered on the anniversary of her death when her closest friends gather in Beverly Hills , California , Friday to cut the ribbon on the Farrah Fawcett Foundation 's new headquarters .
+
+@highlight
+
+Michael Jackson 's death hours later overshadowed Fawcett 's
+
+@highlight
+
+Friend said Farrah would have smiled about coincidence
+
+@highlight
+
+Farrah Fawcett Foundation supports alternative cancer treatments
+
+@highlight
+
+Actress hoped her cancer battle would inspire others
+
